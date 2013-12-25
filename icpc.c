@@ -1,3 +1,4 @@
+//Simple Program to check my C skills
 #include<stdio.h>
 int main() {
 	int first, second, n, third;
